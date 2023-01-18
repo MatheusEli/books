@@ -1,3 +1,16 @@
 {
-  "books": []
+  "books": [
+    {
+      "title": "A Grande Fome de Mao",
+      "id": 1
+    },
+    {
+      "title": "A Fome na Ucrania",
+      "id": 2
+    },
+    {
+      "title": "A Cabana",
+      "id": 3
+    }
+  ]
 }
